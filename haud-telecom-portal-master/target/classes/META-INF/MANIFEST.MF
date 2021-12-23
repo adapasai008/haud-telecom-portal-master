@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: adapa
+Build-Jdk: 16.0.1
+Implementation-Title: ms-haud-operator
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.haud.telecom
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Telecom-Project
+Created-By: Maven Integration for Eclipse
+
